@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # crud_rest_firebase_app
 
 A new Flutter project.
@@ -17,4 +17,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # Crud-rest-firebase
->>>>>>> 61c9827550b929db5096f847d7e058d4ec895f73
